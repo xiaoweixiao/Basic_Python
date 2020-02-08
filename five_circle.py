@@ -33,5 +33,3 @@ t.pendown()
 
 t.color('green')
 t.circle(50)
-
-
